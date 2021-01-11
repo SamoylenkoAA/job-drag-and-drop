@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.over{
+    background-color: black;
+    opacity: 0.1;
+    min-width: 120px;
+    padding: 1px;
+    border-radius: 12px;
+}

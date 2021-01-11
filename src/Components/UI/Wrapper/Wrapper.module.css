@@ -1,0 +1,8 @@
+.wrapper{
+    margin: 55px auto;
+    width: 800px;
+}
+.wrapperHeader{
+    display: flex;
+    justify-content: center;
+}

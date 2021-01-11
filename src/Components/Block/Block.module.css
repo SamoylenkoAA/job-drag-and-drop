@@ -1,0 +1,25 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 10px;
+    background: #000000;
+    position: static;
+    min-width: 120px;
+    min-height: 24px;
+    border-radius: 89px;
+    margin:6px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.title{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    width: 100%;
+    /*text-align: center;*/
+}
